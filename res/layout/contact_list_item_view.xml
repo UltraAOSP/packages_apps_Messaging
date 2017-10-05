@@ -51,6 +51,7 @@
             android:layout_width="@dimen/contact_list_icon_size"
             android:layout_height="@dimen/contact_list_icon_size"
             android:src="@drawable/ic_checkmark_circle_blue"
+	    android:tint="@color/primary_color"
             android:visibility="gone"
             android:importantForAccessibility="no"
         android:contentDescription="@null"/>
